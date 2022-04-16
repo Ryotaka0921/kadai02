@@ -1,0 +1,48 @@
+body{
+    font-family:"k8x12";
+    font-size: 1.6rem;
+}
+
+.btnstyle{
+    font-family:"k8x12";
+    font-size: 1.6rem;
+}
+
+.visible{
+    visibility: visible;
+    position: absolute; 
+    top:0;
+    left: 50%;
+}
+
+.hidden{
+    visibility: hidden;
+    position: absolute;
+    top:0;
+    left: 50%;
+}
+
+.text-center{
+    text-align: center;
+    font-size: 6.0rem
+}
+
+.image-size{
+    width: 100px;
+    height: 100px;
+}
+
+/*================
+       page1
+=================*/
+
+.image-change{
+    position:absolute;
+    width:100%;
+    max-width:600px;
+    height:100%;
+    max-height:350px;
+    }
+#image-change2{
+    display:none;
+    }
